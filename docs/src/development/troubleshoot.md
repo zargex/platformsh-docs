@@ -212,11 +212,7 @@ Make sure that the paths for files like media files, dependencies, and databases
 If large files are already in the repository, the open-source tool [bfg-repo-cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 can assist in cleaning up the repository by purging older commits, removing unnecessary files, and more.
 
-<<<<<<< HEAD
-If none of these suggestions work, create a [support ticket](https://console.platform.sh/-/users/~/tickets/open).
-=======
 If none of these suggestions work, create a [support ticket](../overview/get-support.md).
->>>>>>> ecffc48f5016455caa5bc1f0d760b4f46bb40db7
 
 ### Check for errors in the logs
 
