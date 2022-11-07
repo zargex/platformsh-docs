@@ -217,7 +217,7 @@ If none of these suggestions work, create a [support ticket](../overview/get-sup
 ### Check for errors in the logs
 
 Invisible errors during the build and deploy phase can cause increased wait times, failed builds, and other problems.
-Investigate [each log](../increase-observability/logs.md#container-logs) and fix any errors you find.
+Investigate [each log](../increase-observability/logs/access-logs.md#container-logs) and fix any errors you find.
 
 ## Build and deploy hooks
 
