@@ -16,8 +16,8 @@ such as its [activity feed](#activity-feed), [services](#service-information),
 
 ## Activity Feed
 
-You can see all the [activity happening on your environments](../../increase-observability/logs/access-logs.md#activity-logs).
-You can filter activities by type.
+When you access an environment in the Console, you can see its [activity feed](../../increase-observability/logs/access-logs.md#activity-logs).
+This allows you to check which activities have happened or are currently happening on the selected environment:
 
 ![Environment activity list](/images/management-console/activity.png "0.5")
 
